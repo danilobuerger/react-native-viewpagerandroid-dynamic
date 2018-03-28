@@ -1,0 +1,4 @@
+#Wed Mar 28 22:14:39 CEST 2018
+base.0=/Users/danilo/GIT/react-native-viewpagerandroid-dynamic/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/danilo/GIT/react-native-viewpagerandroid-dynamic/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
